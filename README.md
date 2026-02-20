@@ -63,7 +63,6 @@ college-event-management-system/
 ├── SETUP_GUIDE.md
 └── README.md
 
-
 ---
 
 ## ⚙️ Setup Instructions
@@ -81,12 +80,6 @@ This includes:
 - API configuration
 
 ---
-
-## 🔐 Default Admin Credentials
-
-
-Username: admin
-Password: admin123
 
 
 > ⚠️ Change credentials in production environments.
