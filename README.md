@@ -88,36 +88,6 @@ This includes:
 
 ---
 
-## 🔐 Default Admin Credentials
-
-```
-
-Username: admin
-Password: admin123
-
-```
-
-> ⚠️ Change these credentials before deploying to production.
-
----
-
-## 📡 API Overview
-
-- Events Management (CRUD operations)  
-- Student Registration  
-- Admin Authentication  
-- CSV Export  
-
-All API endpoints are located in:
-
-```
-
-/backend/api/
-
-```
-
----
-
 ## 📈 Learning Outcomes
 
 - Full-stack application development  
@@ -140,5 +110,3 @@ This project is developed for **educational purposes** only.
 **Siddharth Verma**  
 GitHub: https://github.com/siddharthverma-1208
 ```
-
----
